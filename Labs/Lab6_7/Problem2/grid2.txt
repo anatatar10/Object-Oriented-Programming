@@ -1,0 +1,5 @@
+4 4
+G0 G0 E  E  E
+E  E  E  E  E
+F0 E  E  E  G0
+E  E  G0 E  E
