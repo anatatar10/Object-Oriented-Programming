@@ -1,0 +1,6 @@
+# ninja log v5
+1	767	1684514463544996326	CMakeFiles/milestone_project.dir/repository.cpp.o	64e1a946f14b7c27
+1	790	1684514463568331141	CMakeFiles/milestone_project.dir/songcontroller.cpp.o	e97babbcdf779330
+1	829	1684514463607067047	CMakeFiles/milestone_project.dir/song.cpp.o	104b240500fc404a
+0	915	1684514463682085721	CMakeFiles/milestone_project.dir/filerepository.cpp.o	6ade67aa9dbf1536
+7	545	1684684608023998409	CMakeFiles/milestone_project.dir/songexception.cpp.o	331a1791d3749a36

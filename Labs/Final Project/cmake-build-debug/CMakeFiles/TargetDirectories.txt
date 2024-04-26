@@ -1,0 +1,3 @@
+/Users/anatatar/milestone_project/cmake-build-debug/CMakeFiles/milestone_project.dir
+/Users/anatatar/milestone_project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anatatar/milestone_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
