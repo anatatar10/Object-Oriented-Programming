@@ -1,0 +1,223 @@
+ARTIST="Jessica Simpson"
+TITLE="My Wonderful"
+LYRICS="''A time when I was down and out
+No lovin in my life
+this angel came and brought about
+a meaning of some right
+Took my dark and lonely days
+Into the light
+With his loving ways
+
+He's my wonderful
+Everything a girl could want
+to love
+And all I need
+Yes he's my wonderful
+Must have been sent from
+up above
+Just for me
+
+Gotta have him close
+to me
+Each and every night
+To give me that security
+Of dreaming in delight
+Love has got a grip on me
+Oh so tight
+Hope he never lets go
+
+He's my wonderful
+Everything a girl could want
+to love
+And all I need
+Yes he's my wonderful
+Must have been sent from
+up above
+Just for me
+
+Cause I don't ever want to be free
+From this love and care that
+most people will never see
+And at night I pray
+That I'll have my way
+And enjoy love for eternity
+
+He's my wonderful
+Everything a girl could want
+to love
+And all I need
+Yes he's my wonderful
+Must have been sent from
+up above
+Just for me
+
+No one can ever do for me
+The things he does cause
+
+He's my wonderful
+Everything a girl could want
+to love
+And all I need
+Yes he's my wonderful
+Must have been sent from
+up above
+Just for me''
+"
+ARTIST="John Lennon"
+TITLE="Just Because"
+LYRICS="''Ah, remember this?
+Why, I must have been thirteen when this came out!
+Or was it fourteen?
+Or was it twenty-two?
+I could have been twelve actually.''
+
+just because you left and said goodbye,
+do you think that I will sit and cry?
+Even if my heart should tell me so,
+darling, I would rather let you go.
+
+Just because I want someone who's kind,
+with a heart as good and pure as mine.
+But maybe I am asking for too much,
+darling, please don't ever break my heart.
+
+I know you think you're smart,
+just runnin' around breaking lovers hearts.
+
+Just because you left and said goodbye, hey!
+Do you think that I will sit and cry?
+Even if my heart should tell me so,
+darling, I would rather let you go.
+
+Uh-uh-uh -
+
+''this is doctor winston o'boggie saying goodnight
+from record plant east, new york.
+We hope you had a swell time!
+Ev'rybody here says ''hi''.
+Goodbye.''
+
+just because you left and said goodbye,
+do you think that I will sit and cry?
+Even if my heart should tell me so,
+darling, I would rather let you go.
+
+Uh-uh-uh -
+goodbye!
+Uh-uh-uh-uh-uh -
+so long!
+Been a long year!
+"
+ARTIST="Elton John"
+TITLE="Ticking"
+LYRICS="''An extremely quiet child'' they called you in your school report
+''He's always taken interest in the subjects that he's taught''
+So what was it that brought the squad car screaming up your drive
+To notify your parents of the manner in which you died.
+
+At St. Patrick's every Sunday, Father Fletcher heard your sins
+''Oh, he's unconcerned with competition, he never cares to win''
+But blood stained a young hand that never held a gun
+And his parents never thought of him as their troubled son.
+
+''Now you'll never get to Heaven'' Mama said.
+Remember Mama said
+Ticking, ticking
+''Grow up straight and true blue
+Run along to bed''
+Hear it, hear it, ticking, ticking.
+
+They had you holed up in a downtown bar screaming for a priest
+Some gook said ''His brains just snapped'' then someone called the police
+ You'd knifed a Negro waiter who had tried to calm you down
+Oh, you'd pulled a gun and told them all to lay still on the ground.
+
+Promising to hurt no-one, providing they were still
+A young man tried to make a break, with tear-filled eyes you killed
+That gun butt felt so smooth and warm cradled in your palm
+Oh, your childhood cried out in your head, ''They mean to do you harm''.
+
+''Don't ever ride on the devil's knee'' Mama said
+Remember Mama said
+Ticking, ticking
+''Pay your penance well, my child
+Fear where angels tread''
+Hear it, hear it, ticking, ticking.
+
+Within an hour the news had reached the media machine
+A male Caucasian with a gun had gone berserk in Queens'
+The area had been sealed off, the kids sent home from school
+Fourteen people lying dead in a bar they called the Kicking Mule.
+
+Oh, they pleaded to your sanity for the sake of those inside
+''Throw out your gun , walk out slow just keep your hands held high''
+But they pumped you full of rifle shells as you stepped out the door
+Oh, you danced in death like a marionette on the vengeance of the law.
+
+''You've slept too long in silence'' Mama said
+Remember Mama said
+Ticking, ticking
+''Crazy boy, you'll only wind up with strange notions in your head''
+Hear it, hear it, ticking, ticking.
+"
+ARTIST="Pink Floyd"
+TITLE="The Great Gig In The Sky"
+LYRICS="''And I am not frightened of dying, any time will do, I
+don't mind. Why should I be frightened of dying?
+There's no reason for it, you've gotta go sometime.''
+
+''If you can hear this whispering you are dying.''
+
+''I never said I was frightened of dying.''
+
+(Instrumental)
+"
+ARTIST="Nirvana"
+TITLE="Heart-Shaped Box (Demo)"
+LYRICS="''Are we rolling?'' 
+
+She eyes me like a Pisces when I am weak
+I've been buried in a heart-shaped box for weeks
+You done undid my magnet tar pit trap
+I wish I could catch your cancer when I am sick 
+
+(x3)
+Hey!
+Wait!
+I've got a new complaint
+Forever in debt to your priceless advice 
+
+Forever in debt to your priceless advice
+
+Your advice (x3) 
+
+I asked me like a Pisces when I've been weak
+I've been locked inside your heart-shaped box for weeks
+And in a magnet tar pit film on your trap
+I wish I could catch your cancer when I am black 
+
+(x3)
+Hey!
+Wait!
+I've got a new complaint
+Forever in debt to your priceless advice 
+
+Forever in debt to your priceless advice
+
+Your advice (x3) 
+
+She eyes me like a Pisces when I am weak
+I've been locked in heart-shaped coffins for too many weeks
+You've drawn me into your magnet tar pit trap
+I wish I could kill your cancer when I am black
+
+(x2)
+Hey!
+Wait!
+I've got a new complaint
+Forever in debt to your priceless advice 
+
+Forever in debt to your priceless advice (x2)
+
+Your advice (x3)
+"
