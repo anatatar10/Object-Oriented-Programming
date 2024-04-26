@@ -1,0 +1,42 @@
+﻿  BrightnessAndContrast.cpp
+  GammaCorrection.cpp
+  image.cpp
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(56,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(68,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(70,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(86,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(88,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(104,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(106,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(126,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(131,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(160,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(199,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(201,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(217,8): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(248,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(268,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(279,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\image.cpp(281,21): warning C4018: '<': signed/unsigned mismatch
+  ImageConvultion.cpp
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\ImageConvultion.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\ImageConvultion.cpp(12,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\ImageConvultion.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\ImageConvultion.cpp(25,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\ImageConvultion.cpp(28,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\ImageConvultion.cpp(30,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\ImageConvultion.cpp(35,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\ImageConvultion.cpp(35,52): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\Credit_Lab4\ImageConvultion.cpp(49,28): warning C4244: 'argument': conversion from 'double' to 'unsigned char', possible loss of data
+  ImageProcessing.cpp
+  ImageTest.cpp
+  main.cpp
+  point.cpp
+  pointTest.cpp
+  rectangle.cpp
+  RectangleTest.cpp
+  size.cpp
+  SizeTest.cpp
+  Generating Code...
+  Credit_Lab4.vcxproj -> C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Credit_Lab4\x64\Debug\Credit_Lab4.exe
