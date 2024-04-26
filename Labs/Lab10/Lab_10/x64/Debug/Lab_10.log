@@ -1,0 +1,5 @@
+﻿  Reading Qt configuration (C:/Qt/6.2.4/msvc2019_64/bin/qmake)
+  main.cpp
+  Song_ui.cpp
+  Lab_10Plugin.cpp
+C:\Users\Admin\Desktop\Anul 1\OOP\Labs\Lab_10\Lab_10\Lab_10Plugin.cpp(27,16): error C2061: syntax error: identifier 'Song_ui'
